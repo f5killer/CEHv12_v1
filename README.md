@@ -2,8 +2,8 @@
 
 <br>
 
-- ## [Footprinting and Reconnaissance](modules/Footprinting_and_Reconnaissance.md)
-- ## [Scanning Networks](modules/Scanning_Networks.md)
+- ## [Footprinting and Reconnaissance](module/Footprinting_and_Reconnaissance.md)
+- ## [Scanning Networks](module/Scanning_Networks.md)
 - ## [Enumeration](modules/Enumeration.md)
 - ## [Vulnerability Analysis](modules/Vulnerability_Analysis.md)
 - ## [System Hacking](modules/System_Hacking.md)
